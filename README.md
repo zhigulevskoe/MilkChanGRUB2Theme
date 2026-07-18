@@ -11,6 +11,6 @@ git clone https://github.com/zhigulevskoe/MilkChanGRUB2Theme && cd MilkChanGRUB2
 Or download .tar.gz archive from Release page and then do
 ```shell
 tar -xzf MilkChan-GRUB2-Theme.tar.gz
-cd MilkChan-GRUB2-Theme.tar.gz
+cd MilkChan-GRUB2-Theme
 ./install.sh
 ```
