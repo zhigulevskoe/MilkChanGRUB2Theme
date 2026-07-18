@@ -8,3 +8,9 @@ This theme was compiled from two other themes: [Lain](https://github.com/uirians
 ```shell
 git clone https://github.com/zhigulevskoe/MilkChanGRUB2Theme && cd MilkChanGRUB2Theme && ./install.sh
 ```
+Or download .tar.gz archive from Release page and then do
+```shell
+tar -xzf MilkChan-GRUB2-Theme.tar.gz
+cd MilkChan-GRUB2-Theme.tar.gz
+./install.sh
+```
